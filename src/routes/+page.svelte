@@ -1,5 +1,12 @@
-<script>
-    
-</script>
-<h1 class='text-6xl text-blue-600'>MemoMate</h1>
-<p>This is the develop branch.</p>
+<h1 class='text-6xl text-blue-600'>Example Title</h1>
+<div class='text-xl text-blue-400'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</div>
+<div class='text-xl text-blue-400'>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.</div>
+<div class='text-xl text-blue-400'>Curabitur blandit mollis lacus. Ut eu diam at pede suscipit sodales. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</div>
+<h1 class='text-6xl text-blue-600'>Example Title</h1>
+<div class='text-xl text-blue-400'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</div>
+<div class='text-xl text-blue-400'>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.</div>
+<div class='text-xl text-blue-400'>Curabitur blandit mollis lacus. Ut eu diam at pede suscipit sodales. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</div>
+<h1 class='text-6xl text-blue-600'>Example Title</h1>
+<div class='text-xl text-blue-400'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</div>
+<div class='text-xl text-blue-400'>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.</div>
+<div class='text-xl text-blue-400'>Curabitur blandit mollis lacus. Ut eu diam at pede suscipit sodales. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</div>
