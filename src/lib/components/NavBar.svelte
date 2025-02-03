@@ -1,4 +1,6 @@
 <script>
+	import { goto } from "$app/navigation";
+
     let isOpen = false;
 
     function toggleMenu() {
@@ -10,8 +12,15 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between h-16 items-center">
             <!-- Logo / App Title -->
-            <div class="flex-1 flex justify-center">
-                <h1 class="text-xl font-bold italic">MemoMate</h1>
+            <div class="flex-1 flex justify-left">
+                <h1 class="text-xl font-bold">MemoMate</h1>
+            </div>
+
+            <!-- Add contact button -->
+            <div class="flex items-center">
+                <button class="p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-300" on:click={ () => goto('/')}>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill: rgba(0, 0, 0, 1);transform: ;msFilter:;"><path d="M19 11h-6V5h-2v6H5v2h6v6h2v-6h6z"></path></svg>
+                </button>
             </div>
 
             <!-- Hamburger Menu Button -->
