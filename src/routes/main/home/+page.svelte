@@ -3,8 +3,8 @@
 
     let searchQuery = '';
     let contacts = writable([
-        { id: 1, name: 'Alice', avatar: '', tags: ['Family'], birthday: '2024-02-14', pinned: false },
-        { id: 2, name: 'Bob', avatar: '', tags: ['Friend'], birthday: '2024-06-20', pinned: true },
+        { id: 1, name: 'Alice', avatar: '../avatar-default.png', tags: ['Family'], birthday: '2024-02-14', pinned: false },
+        { id: 2, name: 'Bob', avatar: '../avatar-default.png', tags: ['Friend'], birthday: '2024-06-20', pinned: true },
     ]);
 </script>
 

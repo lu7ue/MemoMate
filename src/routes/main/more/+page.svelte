@@ -4,7 +4,7 @@
     let user = {
         name: "User",
         id: "default123",
-        avatar: "./avatar-default.png"
+        avatar: "../avatar-default.png"
     };
 </script>
 
@@ -18,7 +18,7 @@
                 <p class="text-gray-500">User ID: {user.id}</p>
             </div>
         </div>
-        <button on:click={() => goto('/')} class="text-gray-500 hover:text-gray-700 text-2xl">&gt;</button>
+        <button on:click={() => goto('/main/home')} class="text-gray-500 hover:text-gray-700 text-2xl">&gt;</button>
     </div>
 
     <!-- Settings Cards -->
@@ -32,7 +32,7 @@
                 </svg>
                 <span class="text-lg">Theme Mode</span>
             </div>
-            <button on:click={() => goto('/')} class="text-gray-500 hover:text-gray-700 text-2xl">&gt;</button>
+            <button on:click={() => goto('/main/home')} class="text-gray-500 hover:text-gray-700 text-2xl">&gt;</button>
         </div>
 
         <hr class="border-gray-300">
@@ -45,7 +45,7 @@
                 </svg>
                 <span class="text-lg">Language</span>
             </div>
-            <button on:click={() => goto('/')} class="text-gray-500 hover:text-gray-700 text-2xl">&gt;</button>
+            <button on:click={() => goto('/main/home')} class="text-gray-500 hover:text-gray-700 text-2xl">&gt;</button>
         </div>
 
         <hr class="border-gray-300">
@@ -59,7 +59,7 @@
                 </svg>
                 <span class="text-lg">Import/Export Files</span>
             </div>
-            <button on:click={() => goto('/')} class="text-gray-500 hover:text-gray-700 text-2xl">&gt;</button>
+            <button on:click={() => goto('/main/home')} class="text-gray-500 hover:text-gray-700 text-2xl">&gt;</button>
         </div>
     </div>
 
@@ -72,7 +72,7 @@
                 </svg>
                 <span class="text-lg">More Settings</span>
             </div>
-            <button on:click={() => goto('/')} class="text-gray-500 hover:text-gray-700 text-2xl">&gt;</button>
+            <button on:click={() => goto('/main/home')} class="text-gray-500 hover:text-gray-700 text-2xl">&gt;</button>
         </div>
     </div>
 </div>
