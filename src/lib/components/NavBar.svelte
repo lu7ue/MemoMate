@@ -11,7 +11,7 @@
         <div class="flex justify-between h-16 items-center">
             <!-- Logo / App Title -->
             <div class="flex-1 flex justify-center">
-                <h1 class="text-xl font-bold italic">MemoMate</h1>
+                <h1 class="text-xl font-bold">MemoMate</h1>
             </div>
 
             <!-- Hamburger Menu Button -->
