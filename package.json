@@ -3,6 +3,10 @@
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",
+	"exports": {
+		"import": "./index.mjs",
+		"require": "./index.cjs"
+	},
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
@@ -33,6 +37,10 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
+		"knex": "^3.1.0",
+		"sql.js": "^1.12.0",
+		"sqlite-wasm": "^0.0.2",
+		"sqlite3": "^5.1.7",
 		"svelte-icons": "^2.1.0"
 	}
 }
